@@ -6,3 +6,9 @@
 ### HOW TO RUN
 ### (bboardvenv) PS E:\Django_Projects\bboard\bboard>
 ### Запуск локального сервера - Окно запуска - конфигурация Django_Project_virt_1
+
+
+### Database: PostgreSQL
+### superuser login: admin
+### superuser password: admin
+
